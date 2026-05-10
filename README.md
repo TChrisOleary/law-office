@@ -37,14 +37,14 @@ I handled the full design and build process:
 ### Homepage
 ![Homepage](Screenshot%202026-05-10%20155938.png)
 
-### Practice Areas Section
-![Practice Areas](Screenshot%202026-05-10%20160007.png)
+### About US
+![About Us](Screenshot%202026-05-10%20160007.png)
 
-### Attorney Bio Section
-![Attorney Bio](Screenshot%202026-05-10%20160036.png)
+### Accomplishments
+![Accomplishments](Screenshot%202026-05-10%20160036.png)
 
-### Contact / Footer
-![Footer](Screenshot%202026-05-10%20160103.png)
+### Testimonials
+![Testimonials](Screenshot%202026-05-10%20160103.png)
 
 ## Notes
 - Developed locally using **MAMP**
