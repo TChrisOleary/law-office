@@ -1,28 +1,52 @@
-# Personal Injury Law Firm Website (WordPress + Elementor)
+# Law Office Website — WordPress + Elementor
 
 ## Overview
-A premium, responsive personal injury law firm website built using WordPress and Elementor. Designed with a clean, trustworthy layout, strong visual hierarchy, and a boutique legal aesthetic.
+A clean, professional law office website designed to communicate trust, clarity, and credibility. Built using WordPress and Elementor, this project focuses on strong visual hierarchy, readable typography, and a structured layout that highlights legal services and attorney information.
 
 ## Features
-- Custom homepage with hero section
-- Attorney/firm overview section
-- Practice areas with clear service descriptions
-- Testimonials or trust-building elements
-- Contact section with form integration
-- Fully mobile-responsive design
-- Elementor-based visual editing
+- Professional hero section with clear messaging
+- Practice areas displayed in a structured, easy-to-read layout
+- Attorney bio section with strong visual hierarchy
+- Contact information and footer designed for quick access
+- Fully responsive design across desktop, tablet, and mobile
+- Consistent spacing, alignment, and typography for a polished look
 
-## Tools Used
-- WordPress
-- Elementor
-- Canva (graphics)
-- MAMP (local development)
+## Tech Used
+- **WordPress**
+- **Elementor Page Builder**
+- **Custom CSS** for spacing and responsive refinements
+- **Canva** for visual assets
+- **MAMP** for local development
 
 ## My Role
-Designed and built the full site layout, including structure, styling, and responsive behavior. Focused on trust-building visuals, readability, and a polished, high-end legal brand feel.
+I handled the full design and build process:
+- Planned the site structure and user flow
+- Designed all sections using Elementor
+- Customized spacing, alignment, and mobile responsiveness
+- Selected imagery and icons to support a professional legal brand
+- Ensured readability and accessibility across devices
+
+## What I Learned
+- How to structure a professional service website for clarity and trust
+- Improving Elementor layouts with custom CSS
+- Strengthening mobile responsiveness and spacing
+- Creating a consistent visual identity across multiple sections
 
 ## Screenshots
-(See images above in this repository)
+
+### Homepage
+![Homepage](Screenshot%202026-05-10%20155938.png)
+
+### Practice Areas Section
+![Practice Areas](Screenshot%202026-05-10%20160007.png)
+
+### Attorney Bio Section
+![Attorney Bio](Screenshot%202026-05-10%20160036.png)
+
+### Contact / Footer
+![Footer](Screenshot%202026-05-10%20160103.png)
 
 ## Notes
-This project was developed locally using MAMP and exported using All-in-One WP Migration.
+- Developed locally using **MAMP**
+- Exported using **All‑in‑One WP Migration**
+- Designed with a focus on clean UI, readability, and responsive behavior
